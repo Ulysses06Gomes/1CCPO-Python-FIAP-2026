@@ -36,6 +36,6 @@ print(f"O gasto total na compra de 3 livros e 2 canetas é de {gasto}")
 
 # exercicio 5
 velocidade = int(60/3.6)
-distancia = int(150.1000)
+distancia = int(150*1000)
 tempo = distancia/velocidade
 print(f"O carro levou {tempo*60}h para percorrer a distância de 150km")
